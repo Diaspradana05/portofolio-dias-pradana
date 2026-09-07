@@ -24,3 +24,7 @@ npm run dev
 ## Ubah isi
 
 Semua teks ada di `data/content.js`.
+
+## Live Demo
+
+[Portfolio Dias Pradana](https://portofolio-dias-pradana.vercel.app/)
